@@ -1,0 +1,10 @@
+{
+  "versionCode": 1,
+  "versionName": "0.1.0",
+  "apkUrl": "https://github.com/dist-park/yellowstone/releases/latest/download/hot-spring-town.apk",
+  "sha256": "445c2dc7ba82e010036de0abd1b5589ccacb329db5b2277ed76e1d7eb826a208",
+  "apkSize": 77679945,
+  "minSupportedVersionCode": 0,
+  "changelog": "首个发布版",
+  "publishedAt": "2026-07-20"
+}
